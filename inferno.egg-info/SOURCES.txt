@@ -1,0 +1,14 @@
+README.md
+setup.py
+inferno/__init__.py
+inferno/accelerate.py
+inferno/greedy_layer_wise_pruning.py
+inferno/task_specific_LLM_pruning.py
+inferno/test_accelerate.py
+inferno.egg-info/PKG-INFO
+inferno.egg-info/SOURCES.txt
+inferno.egg-info/dependency_links.txt
+inferno.egg-info/requires.txt
+inferno.egg-info/top_level.txt
+tests/__init__.py
+tests/test_accelerate.py

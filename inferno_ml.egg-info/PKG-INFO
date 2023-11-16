@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: inferno-ml
+Version: 0.1.0
+Summary: A package for accelerating deep learning inference
+Home-page: https://github.com/ashernoel/inferno
+Author: Asher Noel
+Author-email: asher13a@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# inferno
+Accelerating Inference for CNN's and LLM's through Transferable Architectures and Task-Specific Pruning
